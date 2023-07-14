@@ -20,8 +20,8 @@
   
   
   form {
-    width: 400px;
-    padding: 50px;
+    width: 300px;
+    padding: 30px;
     background: #1e6cb4;
     border-radius: 5px;
   }
